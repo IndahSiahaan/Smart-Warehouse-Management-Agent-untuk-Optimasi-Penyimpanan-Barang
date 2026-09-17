@@ -228,7 +228,9 @@ Daftar di atas adalah kemungkinan arah pengembangan, bukan klaim bahwa fitur ter
 
 ## Anggota Tim
 | Nicolas J Grace Butarbutar | 12S24038 | Algorithm Engineer & Repo Setup |
+
 | Indah | 12S24052 | Business Analyst / Problem Framer |
+
 | Swasti | 12S24030 | PEAS Specialist & Dokumentasi |
 
 ## Lisensi
